@@ -20,7 +20,7 @@
     <body>
 
         <div class="container">
-            <h2>Simulador de SQL Injection</h2>
+            <h2>Simulador de SQL Injection (Ataque)</h2>
             <!-- Trigger the modal with a button -->
             <button type="button" class="btn btn-default btn-lg" id="myBtn">Login</button>
 
